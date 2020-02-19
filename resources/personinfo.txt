@@ -1,0 +1,7 @@
+25634982014,Aws,0565435557,aws@gmail.com,Innovia,26/1/2020,new,
+13695874203,mohammeed,0546612449,shiref@gmail.com,NEF,26/1/2020,lost,
+14785236902,Omar,0565435552,omar@gmail.com,Fly Garden,1/2/2020,interested,
+46953016795,Zaid,0581163326,zaid@gmail.com,Yenibosnam,4/1/2020,sold,
+16345982037,Waleed,0550003419,waleed@gmail.com,Yenibosnam,22/1/2020,lost,
+038024tu8,kajdch,94526831548,hiyv@gmai.com,Innovia,14/2/2020,lost,
+-0968787,mossab,2697523,mosaab@gmail.com,Innovia,14/2/2020,interested,
